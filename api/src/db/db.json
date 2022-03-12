@@ -1,7 +1,57 @@
 {
   "user": {
-    "id": "jBWMVGjm50l6LGwepDoty",
-    "username": "frontendmaster"
+    "id": 18918282,
+    "username": "doriorio"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "2782728",
+      "type": "CAT",
+      "name": "Prosciutto",
+      "owner": "DP",
+      "createdAt": "2012"
+    },
+    {
+      "id": "278328",
+      "type": "DOG",
+      "name": "Snickers",
+      "owner": "Al",
+      "createdAt": "2019"
+    },
+    {
+      "id": "jOmrN3lsRwEGRyvtWnnwz",
+      "createdAt": 1647044110665,
+      "name": "Bella",
+      "type": "CAT",
+      "user": 18918282
+    },
+    {
+      "id": "DjWc8wAcWbXJDUAh8kwjH",
+      "createdAt": 1647044927348,
+      "name": "Garfield",
+      "type": "CAT",
+      "user": 18918282
+    },
+    {
+      "id": "KzDrTQrv1UtMeLcGVJicf",
+      "createdAt": 1647045188610,
+      "name": "Beep",
+      "type": "DOG",
+      "user": 18918282
+    },
+    {
+      "id": "8vDKRDrVeO_p3ZL63UolW",
+      "createdAt": 1647049444895,
+      "name": "Blorp",
+      "type": "DOG",
+      "user": 18918282
+    },
+    {
+      "id": "1Z3jxjmD2nNp1rYoF7Nph",
+      "createdAt": 1647049486084,
+      "name": "Cool",
+      "type": "DOG",
+      "user": 18918282
+    }
+  ]
 }

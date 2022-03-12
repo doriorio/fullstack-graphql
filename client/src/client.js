@@ -13,19 +13,19 @@ const client = new ApolloClient({
     cache
 });
 
-const query = gql`
-    {
-        whatever {
-            pets {
-                id
-            }
-        }
-    }
+// const query = gql`
+//     {
+//         whatever {
+//             pets {
+//                 id
+//             }
+//         }
+//     }
 
-`
+// `
 
-client.query({query})
-.then(result => console.log(result))
+// client.query({query})
+// .then(result => console.log(result))
 
 
 
